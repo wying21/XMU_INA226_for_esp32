@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\13450\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.3\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\13450\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.3\\variants\\pico32"
+  },
+  {
+    "Sourcefile": "d:\\Github_Projects\\INA226_for_esp32\\build\\sketch\\main.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\13450\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.3\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "d:\\Github_Projects\\INA226_for_esp32\\build\\sketch\\main.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\13450\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.3\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
